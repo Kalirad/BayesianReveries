@@ -1,9 +1,9 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: ISL sketchbook
+title: Bayesian reveries
 author: Ata Kalirad
-#logo: logo.png
+logo: image.webp
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
